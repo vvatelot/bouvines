@@ -2,7 +2,7 @@
 
 Dans quelques semaines, un mandat va se terminer et un nouveau va démarrer pour le conseil municipal de Bouvines. Je souhaite soumettre quelques idées et réflexions pour alimenter le débat.
 
-Bouvines est la commune avec le plus petit budget de la MEL mais se positionne parfaitement comme petit village accueillant entre nature et vie associative très riche. C’est un village à taille humaine où il fait bon vivre.
+Bouvines est la commune avec le plus petit budget de la MEL mais se positionne parfaitement comme petit village accueillant, entre nature et vie associative très riche. C’est un village à taille humaine où il fait bon vivre.
 
 Les propositions qui suivent se basent donc sur ma sensibilité personnelle et tiennent compte des paramètres cités précédemment. Chacun est libre de venir contribuer, critiquer, débattre. Ces idées ne tiennent pas forcément compte de la question budgétaire dans un premier temps.
 
@@ -31,7 +31,7 @@ Au sujet de l’énergie, des bâtiments, véhicules communaux et de l’éclair
 
 ## 04. Donner la priorité au logiciel libre [...]
 
-Dans la mesure du possible, je propose d'utiliser des solutions informatiques libres pour les besoins de l'administration et la communication aux citoyens (Le site de la commune développé avec [Typo3](https://typo3.org) est un bon exemple).
+Dans la mesure du possible, je propose d'utiliser des solutions informatiques libres pour les besoins de l'administration et la communication aux bouvinois (Le site de la commune développé avec [Typo3](https://typo3.org) est un bon exemple).
 
 Au dela de ça, nous pouvons aller plus loin sur la mise en place de solutions permettant de faciliter la vies des Bouvinois :
 
@@ -51,7 +51,9 @@ Que faire pour améliorer les choses ?
 
 ## 15. Donner la priorité aux mobilités actives (marche, vélo) dans l’espace public.
 
-Dans la lignée du point précédent, une possibilité pour améliorer le traffic pourrait être de promouvoir l'usage du vélo pour aller au travail. Bien que ce mode de transport ne se prête pas à tout le monde (capacité physique, profession, distance), nous pouvons peut être agir pour encourager les personnes qui se posent des questions et hésitent à abandonner la voiture pour le vélo :
+Dans la lignée du point précédent, une possibilité pour améliorer le traffic pourrait être de promouvoir l'usage du vélo pour aller au travail.
+
+Bien que ce mode de transport ne soit pas forcément adapté à tout le monde (capacité physique, profession, distance), nous pouvons peut être agir pour encourager les personnes qui se posent des questions et hésitent à abandonner la voiture pour le vélo :
 
 - **Amélioration des infrastructures cyclo :** Meilleure intégration dans le plan de circulation, sécurisation, entretien
 - **Proposer une aide financière** aux personnes souhaitant acquérir du matériel cyclo pour les déplacements professionnels
@@ -70,10 +72,10 @@ Pour compléter le point 4, je pense qu'il peut être aussi opportun de mettre e
 
 ## 28. Mettre en place et renforcer les dispositifs de participation, d'initiative citoyenne, de co-construction de la commune et de ses groupements.
 
-- Impliquer les habitants dans les décisions et la vie du village avec une méthodologie systématique :
-  - **Consulter :** Récueillir les besoins et demandes des habitants (sessions publiques, questionnaires, boites à idées, cahier de doléance...)
+- Impliquer les bouvinois dans les décisions et la vie du village avec une méthodologie systématique :
+  - **Consulter :** Récueillir les besoins et demandes (sessions publiques, questionnaires, boites à idées, cahier de doléance...)
   - **Concerter :** Échanger et confronter les points de vue
-  - **Co-construire :** Élaborer le projet avec le conseil mais également impliquer les habitants
+  - **Co-construire :** Élaborer le projet avec le conseil mais également impliquer les bouvinois
 - Création une commission dédiée aux actions éco-responsables
 - Proposer un challenge famille zéro conso / zéro déchets (remonté par certains parents de l’école)
 
@@ -83,7 +85,7 @@ Quelques questions / idées qui ne rentrent pas forcément dans le cadre du pact
 
 ## Sécurité routière
 
-Les limitations de vitesses sont respectées de façon "aléatoires" dans les rues de Bouvines. Certains usagers pensent emprunter des routes de Rallyes, avec des comportements qui peuvent mettre en danger les piétons, cyclistes ou habitants (notamment les plus jeunes). On peut observer ces excès de vitesse facilement sur la rue du maréchal Foch, rue d'Infières, rue de Gruson, rue des neufs Bonniers.
+Les limitations de vitesses sont respectées de façon "aléatoires" dans les rues de Bouvines. Certains usagers pensent emprunter des routes de Rallyes WRC, avec des comportements qui peuvent mettre en danger les piétons, cyclistes ou habitants (notamment les plus jeunes). On peut observer ces excès de vitesse facilement sur la rue du maréchal Foch, rue d'Infières, rue de Gruson, rue des neufs Bonniers.
 
 Que peut on faire pour garantir une sécurité aux habitants de Bouvines. Est ce envisageable de **mettre en place des ralentisseurs ? Radars préventifs ?**
 
