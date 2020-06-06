@@ -52,14 +52,14 @@ Mattermost est une plate-forme de **messagerie instantanée** sécurisée et col
 
 ## Et pourquoi ne pas utiliser à la place...
 
----
-
 ### Slack / Microsoft Teams
 
 - Solution propriétaire (version gratuite limitée, puis payante)
 - Données stockées chez un prestataire américain
 
 ---
+
+## Et pourquoi ne pas utiliser à la place...
 
 ### Email
 
@@ -69,6 +69,8 @@ Mattermost est une plate-forme de **messagerie instantanée** sécurisée et col
 - Adresses officielles / officieuses (sur quel email envoie t on les infos ?)
 
 ---
+
+## Et pourquoi ne pas utiliser à la place...
 
 ### Whatsapp / Facebook Messenger
 
