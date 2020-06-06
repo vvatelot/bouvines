@@ -14,6 +14,8 @@ marp: true
 
 Mattermost est une plate-forme de **messagerie instantanée** sécurisée et collaborative. Mattermost est un outil de collaboration agile qui offre aux membres d'une équipe des **discussions publiques et privées**, le transfert de fichiers et plus de fonctionnalités de productivité.
 
+[Plus d'infos](https://framalibre.org/content/mattermost)
+
 ---
 
 ## 🤳️ Usage
@@ -21,7 +23,7 @@ Mattermost est une plate-forme de **messagerie instantanée** sécurisée et col
 - Organisation par canaux de communication 📣️
 - Création de fils de discussions 🗂️
 - Notifications configurables (mail, app mobile, résumé, instantané...) 📬️
-- [Applications mobile](https://mattermost.com/download/#mattermostApps) 📱️
+- [Applications mobiles](https://mattermost.com/download/#mattermostApps) 📱️
 - Épingler des messages 📌️
 - Partage simple de documents (avec apperçu) 📊️
 - Mentionner des utilisateurs dans les messages 👥️
@@ -42,7 +44,7 @@ Mattermost est une plate-forme de **messagerie instantanée** sécurisée et col
 
 ## 💡️Autres fonctionnalités
 
-- Créer des commandes personnaliser (automatiser des tâches) ⚙️
+- Créer des commandes personnalisées (automatiser des tâches...) ⚙️
 - Créer des robots 🤖️
 - Pas d'abonnement à payer 💸️
 
