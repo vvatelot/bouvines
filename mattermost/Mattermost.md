@@ -6,9 +6,11 @@ marp: true
 
 > Pour une bonne communication d'équipe
 
-![Mattermost](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frasa.com%2Fassets%2Fimg%2Fchannels%2Flogo-mattermost.png)
+![bg right 33%](https://lh3.googleusercontent.com/_EN_Sr_qNyWR55bSfh4QmEIbHmJN-FtQ4XtzXkx8yRLk162HTrrnkkPNb-M50UC5NSM=s180)
 
 ---
+
+<!-- _class: invert -->
 
 ## Mattermost c'est quoi ?
 
@@ -77,3 +79,18 @@ Mattermost est une plate-forme de **messagerie instantanée** sécurisée et col
 - Messagerie appartenant à Facebook
 - Nécessite un compte Facebook (sauf Whatsapp ?)
 - Conversations non organisées 🗂️
+
+---
+
+![bg right](./bg.png)
+
+## Pour se lancer
+
+### 1. [Créer un compte](https://tchat.colibris-outilslibres.org/signup_user_complete/?id=3zw6nfboq7nubce966zb8nieza)
+
+### 2. Applications mobiles
+
+- [Android](https://play.google.com/store/apps/details?id=com.mattermost.rn)
+- [Iphone](https://apps.apple.com/us/app/mattermost/id1257222717)
+
+> Lors du démarrage de l'application, on vous demande _l'url du serveur :_ https://tchat.colibris-outilslibres.org
