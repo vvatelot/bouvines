@@ -86,11 +86,11 @@ Mattermost est une plate-forme de **messagerie instantanée** sécurisée et col
 
 ## Pour se lancer
 
-### 1. [Créer un compte](https://tchat.colibris-outilslibres.org/signup_user_complete/?id=3zw6nfboq7nubce966zb8nieza)
+### 1. [Créer un compte](https://bouvines-chat.ddns.net/signup_user_complete/?id=uzz8oisg6fr8jes6hdm7ufyt8y)
 
 ### 2. Applications mobiles
 
 - [Android](https://play.google.com/store/apps/details?id=com.mattermost.rn)
 - [Iphone](https://apps.apple.com/us/app/mattermost/id1257222717)
 
-> Lors du démarrage de l'application, on vous demande _l'url du serveur :_ https://tchat.colibris-outilslibres.org
+> Lors du démarrage de l'application, on vous demande _l'url du serveur :_ **https://bouvines-chat.ddns.net**
