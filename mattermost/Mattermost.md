@@ -86,7 +86,7 @@ Mattermost est une plate-forme de **messagerie instantanée** sécurisée et col
 
 ## Pour se lancer
 
-### 1. [Créer un compte](https://bouvines-chat.ddns.net/signup_user_complete/?id=uzz8oisg6fr8jes6hdm7ufyt8y)
+### 1. [Créer un compte](https://bouvines-chat.dynv6.net/signup_user_complete/?id=uzz8oisg6fr8jes6hdm7ufyt8y)
 
 ### 2. Applications mobiles
 
