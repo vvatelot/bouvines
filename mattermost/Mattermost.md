@@ -93,4 +93,4 @@ Mattermost est une plate-forme de **messagerie instantanée** sécurisée et col
 - [Android](https://play.google.com/store/apps/details?id=com.mattermost.rn)
 - [Iphone](https://apps.apple.com/us/app/mattermost/id1257222717)
 
-> Lors du démarrage de l'application, on vous demande _l'url du serveur :_ **https://bouvines-chat.ddns.net**
+> Lors du démarrage de l'application, on vous demande _l'url du serveur :_ **https://bouvines-chat.dynv6.net**
